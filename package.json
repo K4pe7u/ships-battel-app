@@ -1,0 +1,26 @@
+{
+  "name": "ships-battel-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html --no-cache",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K4pe7u/ships-battel-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K4pe7u/ships-battel-app/issues"
+  },
+  "homepage": "https://github.com/K4pe7u/ships-battel-app#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.1"
+  }
+}
